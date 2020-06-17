@@ -1,0 +1,1 @@
+# barcode detector with openCV
